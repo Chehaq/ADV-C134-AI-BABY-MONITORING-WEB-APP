@@ -1,0 +1,28 @@
+body {
+    background-size: cover;
+	font-family:'Coming Soon',cursive ;
+}
+h1
+{
+color: white;
+font-weight: bold;
+}
+
+.note
+{
+color: white;
+font-size: 18px;
+font-weight: 400;
+}
+
+
+#status,#number_of_objects
+{
+font-size: 18px;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px white;
+    border-radius: 10px;
+    margin-top: 30px;
+}
